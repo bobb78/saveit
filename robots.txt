@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (replace https://example.com with your real site URL)
+Sitemap: https://example.com/sitemap.xml
+
+# If you need to block things, add Disallow rules below, e.g.:
+# Disallow: /private/
+
+# Note: keep this file at the repository root so it's served as https://your-domain/robots.txt
